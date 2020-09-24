@@ -1,6 +1,6 @@
 {
   "latestVersion": "v0.5",
-  "lastUpdate": "20200807",
+  "lastUpdate": "20200924",
   "gitRepoName": "computer_tech_summary",
   "bookName": "计算机电脑知识总结",
   "bookDescription": "总结电脑计算机方面的常用基础知识，包括多个系统中通用知识，比如显示文件名后缀，终端shell，软件安装和包管理器，以及对应心得，IP地址，以及其他系统，如Windows，和Mac，及其中的brew如何加代理加速下载，如何解除app使用的安全限制等，以及Linux系统常用心得。"
